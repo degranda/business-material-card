@@ -66,8 +66,8 @@ class businessMaterialCard extends HTMLElement {
                     <h1>${this.getAttribute('title')}</h1>
                     <p>${this.getAttribute('body')}</p>
                     <div class="info-container">
-                        <a href="https://twitter.com/degranda10" target="_blank">Twitter</a>
-                        <a href="https://www.instagram.com/degranda/" target="_blank">Instagram</a>
+                        <a href=${this.getAttribute('twitter')} target="_blank">Twitter</a>
+                        <a href=${this.getAttribute('instagram')} target="_blank">Instagram</a>
                     </div>
                 </div>
             </div>`;
