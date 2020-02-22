@@ -1,4 +1,4 @@
-# business-material.card
+# business-material-card
 This is the example of a business card with Web Components vanilla, and Material Design style transitions
 
 ## Installation
