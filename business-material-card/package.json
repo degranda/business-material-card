@@ -1,0 +1,23 @@
+{
+  "name": "business-material-card",
+  "version": "1.0.0",
+  "description": "Example of a business card vanilla web component, with material design style transitions",
+  "main": "business-material-card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/degranda/business-material-card.git"
+  },
+  "keywords": [
+    "Web Components",
+    "JavaScript"
+  ],
+  "author": "Diego De Granda",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/degranda/business-material-card/issues"
+  },
+  "homepage": "https://github.com/degranda/business-material-card#readme"
+}
