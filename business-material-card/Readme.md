@@ -1,4 +1,4 @@
-# ${business-material.card}
+# business-material.card
 This is the example of a business card with Web Components vanilla, and Material Design style transitions
 
 ## Installation
@@ -8,13 +8,11 @@ This is the example of a business card with Web Components vanilla, and Material
 ## Usage
 Download this component, and add 3 properties so you can customize it.
 
-Title (your name)
-Your biography
-The URL of your image
+Title (your name),
+Your biography,
+The URL of your image.
 
 Later, I will modify and improve the component.
 
-## Credits
-Diego De Granda
 ## License
 This Web Component is released under license [MIT](https://opensource.org/licenses/MIT)
